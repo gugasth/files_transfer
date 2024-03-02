@@ -1,4 +1,4 @@
-Esse projeto foi desenvolvido por mim durante a disciplina de Sistemas distribuídos da Engenharia de Telecomunicações (em 2023/2), ele permite a transferência de arquivos entre um app cliente e um app java através da utilização de sockets.
+Esse projeto foi desenvolvido por mim durante a disciplina de Sistemas Distribuídos da Engenharia de Telecomunicações (em 2023/2), ele permite a transferência de arquivos através do uso de sockets. A comunicação ocorre entre um app cliente e um app servidor, ambos desenvolvidos na linguagem java.
 
 ### Funcionalidades Implementadas
  - Transferência de arquivos de tamanho arbitrário entre os processos cliente e servidor pela rede TCP/IP.
