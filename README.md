@@ -1,13 +1,11 @@
+Esse projeto foi desenvolvido por mim durante a disciplina de Sistemas distribuídos da Engenharia de Telecomunicações (em 2023/2), ele permite a transferência de arquivos entre um app cliente e um app java através da utilização de sockets.
+
 ### Funcionalidades Implementadas
  - Transferência de arquivos de tamanho arbitrário entre os processos cliente e servidor pela rede TCP/IP.
  - O servidor é capaz de atender múltiplos clientes.
  - Argumentos da linha de comando, conforme especificado.
  - Cliente pode baixar um arquivo existente no servidor.
- - Cliente pode enviar um arquivo para o servidor.
-
-### Funcionalides Não Implementadas
-- Se o cliente tentar enviar um arquivo com um nome já existente no servidor, o servidor deverá indicara ao cliente que não será possível iniciar a transferência.
-- Se o cliente solicitar um arquivo que não existe, então o servidor deverá avisar o cliente sobre isso.
+ - Cliente pode enviar um arquivo para o servidor. 
 
 
 ### Protocolo de aplicação
